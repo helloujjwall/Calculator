@@ -3,5 +3,5 @@ A basic calculator built with HTML, CSS, and JavaScript. Perform addition, subtr
 
 ## Calculator Project
 
-[View Calculator] (https://helloujjwall.github.io/Calculator)
+<a href="https://helloujjwall.github.io/Calculator" target="_blank">View Calculator</a>
 
